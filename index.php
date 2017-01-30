@@ -19,6 +19,7 @@
 	<section class="container">
 		<div class="content footer">
 			<h1>Rodapé</h1>
+			<h2>Vinicius</h2>
 		</div>
 	</section>
 </body>
